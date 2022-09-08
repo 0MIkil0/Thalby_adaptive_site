@@ -1,0 +1,61 @@
+.container__inner {
+    max-width: 570px;
+    margin: 0 auto;
+}
+
+.input {
+    margin-top: 130px;
+}
+
+.input__title {
+    margin-bottom: 10px;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+}
+
+.input__about {
+    width: 500px;
+    margin: 0 auto;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.input__First,
+.input__Last {
+    width: 153px;
+    border: 1px solid #000000;
+    padding: 10px;
+    margin-top: 25px;
+}
+
+.input__main {
+    display: flex;
+    justify-content: space-between;
+    width: 366px;
+    margin: 0 auto;
+}
+
+.input__Email {
+    width: 100%;
+    max-width: 366px;
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+.input__Email {
+    display: flex;
+    justify-content: center;
+    margin-top: 18px;
+}
+
+.input__center {
+    
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 88px;
+}

@@ -1,0 +1,63 @@
+.info__top {
+    text-align: center;
+}
+
+.info__text-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.info__text-all {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.info__text-bot {
+    margin-top: 47px;
+}
+
+.info__text-sellers {
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    margin-top: 87px;
+    margin-bottom: 52px;
+}
+
+.info__sellers {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    text-align: center;
+}
+
+.info__about-seller {
+    max-width: 156px;
+}
+
+.seller {
+    margin: 0 auto;
+}
+
+.info__price-seller {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.info__buy-seller {
+    color: black;
+}
+
+.info__about-seller {
+    margin: 20px auto 17px;
+}
+
+.info__price-seller {
+    margin-bottom: 10px;
+}
+
